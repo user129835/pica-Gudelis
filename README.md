@@ -1,5 +1,6 @@
 
 
+
 <br>
 
 <h1>Picerijas Programma</h1>
@@ -11,14 +12,22 @@
 <p>Programmu var izmantot picerijas darbinieki, klienti un menedzeri.</p>
 <p>Programma tika izveidota, lai klienti un darbinieki varetu vieglak pasutit un apskatit picu cenas un pasutijumus.</p>
 
-<h3>Koda apraksts</h3>
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=980:*" alt="PICA">
 
-<blockquote>
-    <p>...</p>
-    <p>...</p>
-    <p>...</p>
-</blockquote>
+[x] Izietas divas pamācības
+[x] Izveidota publiskā krātuve Gudelis-pica
+[x] Izveidots README fails
+[x] Veikta picerijas izgrūšana
+[x] Novērstas konstatētās kļūdas
+[ ] ---
+[ ] ---
 
 :thumbsup: :cactus: :suspect: :thumbsup: :cactus: :suspect: :thumbsup:
 
+<h3>Koda apraksts</h3>
 
+<blockquote>
+    <p></p>
+    <p>...</p>
+    <p>...</p>
+</blockquote>
