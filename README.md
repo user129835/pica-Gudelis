@@ -24,10 +24,7 @@
 
 :thumbsup: :cactus: :suspect: :thumbsup: :cactus: :suspect: :thumbsup:
 
-<h3>Koda apraksts</h3>
-
 <blockquote>
-    <p></p>
     <p>...</p>
     <p>...</p>
 </blockquote>
