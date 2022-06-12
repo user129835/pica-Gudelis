@@ -69,7 +69,8 @@ public class PicaPasutijums {
     // 7. Aprekina picas un pasutijuma cenu
     public void printPasParskats() {
         for (Picca pica : picas) {
-            System.out.println("Pasūtījāt " + pica.dabIzm() + " picu/as ar " +    pica.dabPiedevas() + " piedevām.");
+            String str;
+			System.out.println("Klienta "+str+" Pasūtījums Pasūtījāt " + pica.dabIzm() + " picu/as ar " +    pica.dabPiedevas() + " piedevām.");
         }
         System.out.println("KOPĒJĀ PASŪTĪJUMA SUMMA (€): " + pasParskats());
     }

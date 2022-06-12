@@ -7,7 +7,17 @@ public class PicaPica {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
         ArrayList<Picca> pizzas = new ArrayList<>();
-        System.out.println('\n'+"Liela pica - 9.99€ "+'\n'+"Videja pica - 7.99€"+'\n'+"Maza pica - 5.99€"+'\n');
+        System.out.println('\n'+"Liela pica - 9.99€ "+'\n'+"Videja pica - 7.99€"+'\n'+"Maza pica - 5.99€"+'\n'+'\n');
+        
+        // Klineta informacija
+        Scanner klientaV= new Scanner(System.in);   
+        System.out.print("Ievadiet klienta vardu: ");  // Tiek pajautats ievadit klienta vardu 
+        String str= klientaV.nextLine(); 
+        Scanner klientaTel= new Scanner(System.in);   
+        System.out.print("Ievadiet klienta telefona numuru: ");  // Tiek pajautats ievadit klienta tel. numuru 
+        String str2= klientaTel.nextLine();
+       
+        // Jauta cik picas klients velas pasutit
         System.out.println("Cik picas pasūtīsiet?: ");
         int picasKopaa = scanner.nextInt();
 
@@ -45,7 +55,7 @@ public class PicaPica {
         order.printPasParskats();
 
 
-        // 3. Notira terminali
+        // 3. Notira terminlai
         scanner.close();
 
 
