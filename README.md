@@ -14,13 +14,13 @@
 
 <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=980:*" alt="PICA">
 
-. [x] Izietas divas pamācības
-. [x] Izveidota publiskā krātuve Gudelis-pica
-. [x] Izveidots README fails
-. [x] Veikta picerijas izgrūšana
-. [x] Novērstas konstatētās kļūdas
-. [ ] ---
-. [ ] ---
+- [x] Izietas divas pamācības
+- [x] Izveidota publiskā krātuve Gudelis-pica
+- [x] Izveidots README fails
+- [x] Veikta picerijas izgrūšana
+- [x] Novērstas konstatētās kļūdas
+- [ ] ---
+- [ ] ---
 
 :thumbsup: :cactus: :suspect: :thumbsup: :cactus: :suspect: :thumbsup:
 
